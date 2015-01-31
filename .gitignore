@@ -1,0 +1,14 @@
+!.gitignore
+!README.md
+nbproject/
+htdocs/*.txt
+htdocs/*php
+htdocs/includes
+htdocs/misc
+htdocs/profiles
+htdocs/scripts
+htdocs/modules
+htdocs/themes
+htdocs/web.config
+htdocs/sites/all/libraries
+htdocs/sites/all/themes
